@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cse41321.containers","l":"SinglyLinkedList.Element"},{"p":"cse41321.containers","l":"Homework2"},{"p":"cse41321.containers","l":"Polynomials"},{"p":"cse41321.containers","l":"SinglyLinkedList"}]
